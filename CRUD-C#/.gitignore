@@ -1,0 +1,42 @@
+# ======================
+# C# / .NET / Visual Studio
+# ======================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.rsuser
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.mdf
+*.ldf
+
+# NuGet Packages
+packages/
+*.nupkg
+**/[Pp]ackages/*
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,117 @@
+# ======================
+# IDE / Editor
+# ======================
+.vscode/
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+.fleet/
+
+# ======================
+# OS Generated Files
+# ======================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ======================
+# Node.js
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ======================
+# PHP / Composer
+# ======================
+/vendor/
+
+# ======================
+# C# / .NET
+# ======================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# ======================
+# Java / Android / Gradle
+# ======================
+*.iml
+.gradle/
+local.properties
+*.class
+*.jar
+*.war
+*.ear
+
+# ======================
+# Go
+# ======================
+*.exe
+*.exe~
+*.out
+*.test
+*.prof
+
+# ======================
+# Environment Files
+# ======================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.backup
+
+# ======================
+# Logs
+# ======================
+*.log
+logs/
+
+# ======================
+# Misc
+# ======================
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.cache/

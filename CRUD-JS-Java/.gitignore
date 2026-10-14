@@ -1,0 +1,20 @@
+# ======================
+# Node.js / Express + Java / Android
+# ======================
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
